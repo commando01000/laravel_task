@@ -19,12 +19,11 @@
 
 
 
-
                 <select name="Governorate" class="select">
                     <option value="0">Governorate</option>
                     <option value="Cairo">Cairo</option>
                     <option value="Giza">Giza</option>
-                    <option value="Alexandira">Alexandira</option>
+                    <option value="Alexandria">Alexandria</option>
                     <option value="Luxor">Luxor</option>
                     <option value="Aswan">Aswan</option>
                 </select></br>
@@ -65,5 +64,4 @@
 
         </div>
     </div>
-
 @stop
