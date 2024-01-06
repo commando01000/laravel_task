@@ -20,4 +20,4 @@ Route::get('/', function () {
 
 Route::resource('/Employees',EmployeeController::class);
 
-// Route::resource('/',EmployeeController::class);
+Route::resource('/',EmployeeController::class);
